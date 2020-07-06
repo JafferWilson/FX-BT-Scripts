@@ -27,3 +27,7 @@ Script to read MT formats such as FXT, HCC headers, symgroups, ticks and symbols
 ### `mt_modify.py`
 
 Script to modify MT formats such as symbols raw format.
+
+## Usage:   
+
+Syntax for the use: [How to Use?](https://github.com/FX31337/FX-BT-Scripts/wiki/How-to-Use%3F)
